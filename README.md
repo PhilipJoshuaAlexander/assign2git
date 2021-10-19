@@ -10,4 +10,12 @@ Philip Alexander
 
 //First Comment
 
+<<<<<<< HEAD
 new git branch on GitHub
+=======
+//Here I am adding a new line in vi:
+
+
+
+//"testbranch change"
+>>>>>>> testbranch
